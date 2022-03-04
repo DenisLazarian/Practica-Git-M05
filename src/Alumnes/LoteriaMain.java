@@ -10,7 +10,7 @@ public class LoteriaMain {
 
 		Loteria k=new Loteria();
 
-		k.setNumLot(sc.nextInt()); int i=0;
+		k.setNumLot(sc.nextInt()); int i=0; int a;
 
 		String[] arr=new String[k.getNumLot()];
 
