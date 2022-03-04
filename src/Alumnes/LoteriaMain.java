@@ -26,6 +26,8 @@ public class LoteriaMain {
 		for(i=0;i<k.getNumLot();i++) {
 			if(p.getNumSel()!=i) {
 				System.out.print(arr[i]+" ");
+				
+				
 			}
 		}
 		
