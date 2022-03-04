@@ -19,7 +19,6 @@ public class LoteriaMain {
 			arr[i]=sc.next();
 			i++;
 		}
-
 		Loteria p=new Loteria();
 		
 		p.setNumSel(sc.nextInt());
@@ -29,11 +28,8 @@ public class LoteriaMain {
 				System.out.print(arr[i]+" ");
 			}
 		}
-
-		sc.close();
-
-
-
+		
+		
 	}
 
 }
